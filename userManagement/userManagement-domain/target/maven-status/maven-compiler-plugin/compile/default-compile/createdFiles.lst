@@ -1,0 +1,6 @@
+userManagement\domain\model\UserInfoBySearchCriteria.class
+userManagement\domain\model\RelationshipInfo.class
+userManagement\domain\service\userManagement\UserManagementService.class
+userManagement\domain\service\userManagement\UserManagementServiceImpl.class
+userManagement\domain\model\User.class
+userManagement\domain\repository\userManagement\UserRepository.class
