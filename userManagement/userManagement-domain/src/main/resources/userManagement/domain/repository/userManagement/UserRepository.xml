@@ -50,10 +50,16 @@
 	<![CDATA[
     	WHERE
     	    1 = 1
+    	    
+    	    	//error part start
+    	    	
         	<if test="gender != -1">
        			AND
             		gender = #{gender}
     		</if>
+    		
+    		//END
+    		
     ]]>
 	</sql>
 	
